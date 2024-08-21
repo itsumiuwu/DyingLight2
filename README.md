@@ -120,7 +120,8 @@ Le fichier `Verify BIN files before installation.bat` se lancera à la fin de l'
 
 ![tuto_Vrising_008](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_010.png)
 
-    1 choisissez vos bonus à installer, si vous voulez verifier si DirectX et vos visual C++ doivent être mis à jour.
+    1 choisissez vos bonus à installer
+      si vous voulez verifier si DirectX et vos visual C++ doivent être mis à jour.
 
     2 lencer l'installtion
 
@@ -168,7 +169,8 @@ cela lancera le ` .bat ` précédemment evoqué.
 
 2 - update ` 1.17.1 ` 
 
-    même chose que l'étape précédente il faut juste aller dans un dossier en plus qui a été créé lors de l'extraction :
+    même chose que l'étape précédente
+    il faut juste aller dans un dossier en plus qui a été créé lors de l'extraction :
     Dying.Light.2.Stay.Human.Reloaded.Edition.Update.v1.17.1-TENOKE
 
 2 - patch ` 1.17.1c ` 
@@ -191,7 +193,7 @@ cela lancera le ` .bat ` précédemment evoqué.
 
 /!\ attention cette fois ci l'aissez bien coché la case ` COPY CRACK `
 
-![tuto_Vrising_014](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_015.png)
+![tuto_Vrising_014](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_016.png)
 
 3 - une fois cliqué sur terminer les fichiers seront vérifiés.
 
