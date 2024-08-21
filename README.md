@@ -1,8 +1,8 @@
-# ![doom suspect](https://github.githubassets.com/images/icons/emoji/suspect.png) DyingLight2 
+# Dying Light 2 Stay Human – Ultimate Edition
 
 La préparation est facultative si vous avez déjà fait une installasion de ce type.
 
-## ![doom rage1](https://github.githubassets.com/images/icons/emoji/rage1.png) Préparation :
+## ![doom suspect](https://github.githubassets.com/images/icons/emoji/suspect.png) Préparation :
 
 1 - créer deux dossiers un pour l'installation du jeux et un pour le téléchargement.
 
@@ -80,75 +80,118 @@ Le fichier `Verify BIN files before installation.bat` se lancera à la fin de l'
 
 4 - choisir la langue.
 
-5 - l'installation
-
-    1 couper le sons 
-
-    2 ( paramètre optionel )
-
-    3 étape suivante
-
-![tuto_Vrising_004](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_006.png)
-
-6 - l'installation, suite
-
     1 choisir le dossier d'installation
 
     2 étape suivante
 
+![tuto_Vrising_004](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_006.png)
+
+5 - préparation à l'installation
+
+    1 couper le sons ( si vous le souhaitez )
+
+    2 cocher la case si votre ordinateur est un peu juste en RAM
+      ( paramètre optionel )
+
+    3 étape suivante
+
 ![tuto_Vrising_005](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_007.png)
 
-7 - l'installation, fin
+6 - informations avant l'installation
 
-    1 choisir les options ( paramètre optionel )
-
-    2 installation
+    1 étape suivante
 
 ![tuto_Vrising_006](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_008.png)
 
+7 - préparation à l'installation
+
+    1 choisir le dossier d'installation
+
+    2 choisir de créer ou non, une icone sur le bureau et un dossier dans le menu démarer
+
+    3 étape suivante
+
+
 ![tuto_Vrising_007](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_009.png)
 
-8 - Vérification
+8 - paramétrage de l'installtion
 
-    1 tout désélectionner
-
-    2 finir
-
-cela lancera le ` .bat ` précédemment evoqué.
+    choisissez vos langues à installer puis scrollez
 
 ![tuto_Vrising_008](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_010.png)
 
+    1 choisissez vos bonus à installer, si vous voulez verifier si DirectX et vos visual C++ doivent être mis à jour.
+
+    2 lencer l'installtion
+
 ![tuto_Vrising_009](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_011.png)
 
-9 - La fenettre peut être fermée.
-
-## ![doom rage4](https://github.githubassets.com/images/icons/emoji/rage4.png) Update V1.0.0 à V1.0.6 :
-
-1 - aller dans le dossier où se trouve les exécutables de mise à jour ( vu dans ` Téléchargement ` le point ` 6 ` ).
+    ce-ci fait l'installtion s'éxecute
 
 ![tuto_Vrising_011](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_012.png)
 
-2 - lancer le premier 
+    décocher les 3 derniers choix
 
-    1 choisir la langue
+    puis cliquer sur "finish"
 
-    2 suivant
-
-    3 suivant
-
-    4 choisir le dossier où le jeu est installé
-
-    5 suivant
 
 ![tuto_Vrising_012](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_013.png)
 
-    6 choisir, oui, lorsque qu'il dit que le dossier existe déjà.
-
-    7 installer.
+cela lancera le ` .bat ` précédemment evoqué.
 
 ![tuto_Vrising_013](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_014.png)
 
-![tuto_Vrising_014](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_014.png)
+9 - La fenettre peut être fermée.
+
+## ![doom rage4](https://github.githubassets.com/images/icons/emoji/rage4.png) Crack/patch/update de la  ` v1.16.0 ` à la ` v1.17.2 ` :
+
+1 - étape comune
+ 
+
+    1 aller dans le dossier : Dying Light 2\NoDVD\Goldberg+Nemirtingas+SSE
+
+    2 copie ce qui s'y toucve et coller à la racine du jeu.
+
+2 - update ` 1.16.1 ` 
+
+    1 aller dans le dossier 1.16.1\Update
+
+    2 lancer le PATCH.exe
+
+    3 décocher COPY CRACK (1)
+
+    4 choisir le dossier où le jeu est installé (2)
+
+    5 cliquer sur PATCH (3)
+
+![tuto_Vrising_014](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_015.png)
+
+2 - update ` 1.17.1 ` 
+
+    même chose que l'étape précédente il faut juste aller dans un dossier en plus qui a été créé lors de l'extraction :
+    Dying.Light.2.Stay.Human.Reloaded.Edition.Update.v1.17.1-TENOKE
+
+2 - patch ` 1.17.1c ` 
+
+    1 aller dans le dossier patch.
+
+    2 copier les dossiers présent.
+
+    2 coller les à la racine du jeu.
+
+2 - update ` 1.17.1 ` 
+
+    1 aller dans le dossier 1.16.1\Update
+
+    2 lancer le PATCH.exe
+
+    4 choisir le dossier où le jeu est installé
+
+    5 cliquer sur PATCH
+
+/!\ attention cette fois ci l'aissez bien coché la case ` COPY CRACK `
+
+![tuto_Vrising_014](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_015.png)
 
 3 - une fois cliqué sur terminer les fichiers seront vérifiés.
 
