@@ -12,20 +12,16 @@ le dossier pour télécharger :
 le dossier d'installation : 
 ` E:\Games\Cracked `  
 
-2 - `Exclure` ces deux dossiers de la protection virale du PC.
-
-Je vous laisserais chercher selon votre protection, le moyen d'exclure des dossiers.
-
+2 - `Exclure` ces deux dossiers de la protection virale du PC.  
+Je vous laisserais chercher selon votre protection, le moyen d'exclure des dossiers.  
 ( Google : comment exclure dossier windows defender, antivirus... )
 
-3 - Avoir un logiciel de téléchargement de torrent et lui attribuer le fichier de téléchargement ( dans ce cas ` E:\DL\Torrents ` ).
+3 - Avoir un logiciel de téléchargement de torrent et lui attribuer le fichier de téléchargement  
+( dans ce cas ` E:\DL\Torrents ` ).
 
-:warning: il faudrat probablement l'exclure aussi de ` la protection en temps réeel ` de votre protection virale.
-
-Car oui ton PC sais ce que tu veux faire avec ton P2P coquin.ne xD
-
-Ici l'exemple : ` C:\Users\<TonUserMane>\AppData\Roaming\uTorrent `
-
+:warning: il faudrat probablement l'exclure aussi de ` la protection en temps réeel ` de votre protection virale.  
+Car oui ton PC sais ce que tu veux faire avec ton P2P coquin.ne xD  
+Ici l'exemple : ` C:\Users\<TonUserMane>\AppData\Roaming\uTorrent `  
 uTorrent étant utilisé dans ce cas.
 
 4 - si tout est bien préparé. Tout devrait ce dérouler sans accros pour la suite.
@@ -78,10 +74,9 @@ Le fichier `Verify BIN files before installation.bat` se lancera à la fin de l'
 
 3 - Oui pour la fenettre suivant ( si vous en avez une ).
 
-4 - choisir la langue.
-
-    1 choisir le dossier d'installation
-    2 étape suivante
+4 - choisir la langue.  
+4-1 choisir le dossier d'installation  
+4-2 étape suivante
 
 ![image 006 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_006.png)
 
