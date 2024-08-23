@@ -46,7 +46,7 @@ uTorrent étant utilisé dans ce cas.
 
 4 - Exécuter le `.torrent `, il devrait se télécharger via le logiciel installé dans ` E:\DL\Torrents ` ( pour l'exemple ).
 
-5 - télécharger les mise à jours pour passer de la  ` 1.16.0 ` à la ` 1.17.2 `
+5 - télécharger les mise à jours pour passer de la ` 1.16.0 ` à la ` 1.17.2 `
 
 ![image 003 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_003.png)
 
@@ -144,7 +144,7 @@ cela lancera le ` .bat ` précédemment evoqué.
 
 9 - La fenettre peut être fermée.
 
-## ![doom rage3](https://github.githubassets.com/images/icons/emoji/rage3.png) Crack/patch/update de la  ` v1.16.0 ` à la ` v1.17.2 ` :
+## ![doom rage3](https://github.githubassets.com/images/icons/emoji/rage3.png) Crack/patch/update de la ` v1.16.0 ` à la ` v1.17.2 ` :
 
 1 - étape comune
  
@@ -249,11 +249,11 @@ remplacer ` UK `. pour trouver votre code de pays ISO 3166-1-alpha-2 voir à cet
 
 5 - mettre le jeu en pause ` steam_api64.dll `
 
-6 - selectionner ` menu en ligne  `
+6 - selectionner ` menu en ligne `
 
 ![image 016 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_016.png)
 
-7 - selectionner ` amis  `
+7 - selectionner ` amis `
 
 ![image 017 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_017.png)
 
@@ -274,7 +274,7 @@ Supprimer les vidéos d'introduction
     IntroLogos_4k.bik
     IntroLogos_fullhd.bik
 
-![image 017 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_017.png)
+![image 018 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_018.png)
 
 :warning: ne pas les supprimer.
 
