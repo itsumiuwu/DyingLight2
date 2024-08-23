@@ -189,12 +189,13 @@ cela lancera le ` .bat ` précédemment evoqué.
 
 4 - patch ` 1.17.2c `
 
+
+```
     1 aller dans le dossier patch.
-
     2 copier les dossiers présent.
-
     3 coller les à la racine du jeu.
 
+```
 ## ![doom rage4](https://github.githubassets.com/images/icons/emoji/rage4.png) choix de la langue :
 
 Le jeu prend vos parametres de language de Steam.
@@ -269,10 +270,15 @@ Supprimer les vidéos d'introduction
 
 2 - ajouter ` .old ` à la fin des fichiers suivants :
 
-    GameIntro_4k.bik
-    GameIntro_fullhd.bik
-    IntroLogos_4k.bik
-    IntroLogos_fullhd.bik
+```
+GameIntro_4k.bik
+
+GameIntro_fullhd.bik
+
+IntroLogos_4k.bik
+
+IntroLogos_fullhd.bik
+```
 
 ![image 018 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_018.png)
 
