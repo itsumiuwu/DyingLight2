@@ -81,7 +81,6 @@ Le fichier `Verify BIN files before installation.bat` se lancera à la fin de l'
 4 - choisir la langue.
 
     1 choisir le dossier d'installation
-
     2 étape suivante
 
 ![image 006 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_006.png)
@@ -89,10 +88,8 @@ Le fichier `Verify BIN files before installation.bat` se lancera à la fin de l'
 5 - préparation à l'installation
 
     1 couper le sons ( si vous le souhaitez )
-
     2 cocher la case si votre ordinateur est un peu juste en RAM
       ( paramètre optionel )
-
     3 étape suivante
 
 ![image 007 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_007.png)
@@ -106,9 +103,7 @@ Le fichier `Verify BIN files before installation.bat` se lancera à la fin de l'
 7 - préparation à l'installation
 
     1 choisir le dossier d'installation
-
     2 choisir de créer ou non, une icone sur le bureau et un dossier dans le menu démarer
-
     3 étape suivante
 
 
@@ -132,7 +127,6 @@ Le fichier `Verify BIN files before installation.bat` se lancera à la fin de l'
 ![image 012 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_012.png)
 
     décocher les 3 derniers choix
-
     puis cliquer sur "finish"
 
 
@@ -147,22 +141,16 @@ cela lancera le ` .bat ` précédemment evoqué.
 ## ![doom rage3](https://github.githubassets.com/images/icons/emoji/rage3.png) Crack/patch/update de la ` v1.16.0 ` à la ` v1.17.2 ` :
 
 1 - étape comune
- 
 
     1 aller dans le dossier : Dying Light 2\NoDVD\Goldberg+Nemirtingas+SSE
-
     2 copier ce qui s'y trouve et y coller à la racine du jeu.
 
 2 - update ` 1.16.1 ` 
 
     1 aller dans le dossier 1.16.1\Update
-
     2 lancer le PATCH.exe
-
     3 décocher COPY CRACK (1)
-
     4 choisir le dossier où le jeu est installé (2)
-
     5 cliquer sur PATCH (3)
 
 ![image 015 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_015.png)
@@ -176,9 +164,7 @@ cela lancera le ` .bat ` précédemment evoqué.
 4 - patch ` 1.17.1c ` 
 
     1 aller dans le dossier patch.
-
     2 copier les dossiers présent.
-
     3 coller les à la racine du jeu.
 
 5 - update ` 1.17.2 ` 
@@ -189,12 +175,10 @@ cela lancera le ` .bat ` précédemment evoqué.
 
 4 - patch ` 1.17.2c `
 
-
-```
     1 aller dans le dossier patch.
     2 copier les dossiers présent.
     3 coller les à la racine du jeu.
-```
+
 ## ![doom rage4](https://github.githubassets.com/images/icons/emoji/rage4.png) choix de la langue :
 
 Le jeu prend vos parametres de language de Steam.
@@ -269,15 +253,10 @@ Supprimer les vidéos d'introduction
 
 2 - ajouter ` .old ` à la fin des fichiers suivants :
 
-```
-GameIntro_4k.bik
-
-GameIntro_fullhd.bik
-
-IntroLogos_4k.bik
-
-IntroLogos_fullhd.bik
-```
+    GameIntro_4k.bik
+    GameIntro_fullhd.bik
+    IntroLogos_4k.bik
+    IntroLogos_fullhd.bik
 
 ![image 018 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_018.png)
 
