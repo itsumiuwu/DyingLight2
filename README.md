@@ -220,9 +220,20 @@ remplacer ` UK `. pour trouver votre code de pays ISO 3166-1-alpha-2 voir à cet
 
 ![image 017 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_017.png)
 
-:warning: rédaction en cours de la partie ` Jouer en copo ` :warning:
+8 - Deux choix :
 
-x - ` enjoy !!! `
+pour rejoindre,  
+faire un clique gauche long sur l'amie que vous voulez rejoindre.
+
+![image 09 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_019.png)
+
+pour inviter,  
+lorsque vous êtes en jeu appuyer sur ` E ` pour envoyer une invitation.  
+Votre amie a plus qu'a accepter l'invitation.
+
+![image 020 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_020.png)
+
+9 - ` enjoy !!! `
 
 ## ![doom godmode](https://github.githubassets.com/images/icons/emoji/godmode.png) Bonus :
 
