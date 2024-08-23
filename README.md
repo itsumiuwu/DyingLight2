@@ -80,99 +80,83 @@ Le fichier `Verify BIN files before installation.bat` se lancera à la fin de l'
 
 ![image 006 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_006.png)
 
-5 - préparation à l'installation
-
-    1 couper le sons ( si vous le souhaitez )
-    2 cocher la case si votre ordinateur est un peu juste en RAM
-      ( paramètre optionel )
-    3 étape suivante
+5 - préparation à l'installation  
+5-1 couper le sons ( si vous le souhaitez )  
+5-2 cocher la case si votre ordinateur est un peu juste en RAM ( paramètre optionel )  
+5-3 étape suivante
 
 ![image 007 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_007.png)
 
-6 - informations avant l'installation
-
-    1 étape suivante
+6 - informations avant l'installation  
+6-1 étape suivante
 
 ![image 008 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_008.png)
 
-7 - préparation à l'installation
-
-    1 choisir le dossier d'installation
-    2 choisir de créer ou non, une icone sur le bureau et un dossier dans le menu démarer
-    3 étape suivante
+7 - préparation à l'installation  
+7-1 choisir le dossier d'installation  
+7-2 choisir de créer ou non, une icone sur le bureau et un dossier dans le menu démarer  
+7-3 étape suivante
 
 
 ![image 009 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_009.png)
 
-8 - paramétrage de l'installtion
+8 - paramétrage de l'installtion  
+choisissez vos langues à installer puis scroller
 
-    choisissez vos langues à installer puis scroller
+![image 010 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_010.png)  
 
-![image 010 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_010.png)
+1 choisir les bonus à installer et si vous voulez verifier si DirectX et vos visual C++ doivent être mis à jour.  
+2 lencer l'installtion
 
-    1 choisir les bonus à installer et
-      si vous voulez verifier si DirectX et vos visual C++ doivent être mis à jour.
+![image 011 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_011.png)  
 
-    2 lencer l'installtion
+ce-ci fait l'installtion s'éxecute
 
-![image 011 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_011.png)
+![image 012 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_012.png)  
 
-    ce-ci fait l'installtion s'éxecute
+décocher les 3 derniers choix  
+puis cliquer sur "finish"
 
-![image 012 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_012.png)
-
-    décocher les 3 derniers choix
-    puis cliquer sur "finish"
-
-
-![image 013 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_013.png)
+![image 013 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_013.png)  
 
 cela lancera le ` .bat ` précédemment evoqué.
 
-![image 014 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_014.png)
+![image 014 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_014.png)  
 
 9 - La fenettre peut être fermée.
 
 ## ![doom rage3](https://github.githubassets.com/images/icons/emoji/rage3.png) Crack/patch/update de la ` v1.16.0 ` à la ` v1.17.2 ` :
 
-1 - étape comune
-
-    1 aller dans le dossier : Dying Light 2\NoDVD\Goldberg+Nemirtingas+SSE
-    2 copier ce qui s'y trouve et y coller à la racine du jeu.
+1 - étape comune  
+1-1 aller dans le dossier : Dying Light 2\NoDVD\Goldberg+Nemirtingas+SSE  
+1-2 copier ce qui s'y trouve et y coller à la racine du jeu.  
 
 2 - update ` 1.16.1 ` 
-
-    1 aller dans le dossier 1.16.1\Update
-    2 lancer le PATCH.exe
-    3 décocher COPY CRACK (1)
-    4 choisir le dossier où le jeu est installé (2)
-    5 cliquer sur PATCH (3)
+2-1 aller dans le dossier 1.16.1\Update  
+2-2 lancer le PATCH.exe  
+2-3 décocher COPY CRACK (1)  
+2-4 choisir le dossier où le jeu est installé (2)  
+2-5 cliquer sur PATCH (3)
 
 ![image 015 tuto Dying Light 2 Stay Human Ultimate Edition](https://raw.githubusercontent.com/itsumiuwu/DyingLight2/main/public/img/tuto_DyingLight2StayHumanUltimateEdition_015.png)
 
-3 - update ` 1.17.1 ` 
-
-    même chose que l'étape précédente
-    il faut juste aller dans un dossier en plus qui a été créé lors de l'extraction :
-    Dying.Light.2.Stay.Human.Reloaded.Edition.Update.v1.17.1-TENOKE
+3 - update ` 1.17.1 `  
+même chose que l'étape précédente  
+il faut juste aller dans un dossier en plus qui a été créé lors de l'extraction :  
+Dying.Light.2.Stay.Human.Reloaded.Edition.Update.v1.17.1-TENOKE
 
 4 - patch ` 1.17.1c ` 
+4-1 aller dans le dossier patch.  
+4-2 copier les dossiers présent.  
+4-3 coller les à la racine du jeu.
 
-    1 aller dans le dossier patch.
-    2 copier les dossiers présent.
-    3 coller les à la racine du jeu.
+5 - update ` 1.17.2 `  
+même chose que l'étape 1  
+il faut juste aller dans un dossier en plus qui a été créé lors de l'extraction :  
+Dying.Light.2.Stay.Human.Reloaded.Edition.Update.v1.17.2-TENOKE
 
-5 - update ` 1.17.2 ` 
-
-    même chose que l'étape 1
-    il faut juste aller dans un dossier en plus qui a été créé lors de l'extraction :
-    Dying.Light.2.Stay.Human.Reloaded.Edition.Update.v1.17.2-TENOKE
-
-4 - patch ` 1.17.2c `
-
-    1 aller dans le dossier patch.
-    2 copier les dossiers présent.
-    3 coller les à la racine du jeu.
+6 - patch ` 1.17.2c `  
+même chose que l'étape 4  
 
 ## ![doom rage4](https://github.githubassets.com/images/icons/emoji/rage4.png) choix de la langue :
 
