@@ -194,7 +194,6 @@ cela lancera le ` .bat ` précédemment evoqué.
     1 aller dans le dossier patch.
     2 copier les dossiers présent.
     3 coller les à la racine du jeu.
-
 ```
 ## ![doom rage4](https://github.githubassets.com/images/icons/emoji/rage4.png) choix de la langue :
 
