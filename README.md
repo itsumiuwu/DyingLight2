@@ -210,7 +210,7 @@ remplacer ` UK `. pour trouver votre code de pays ISO 3166-1-alpha-2 voir à cet
 
 4 - terminer les quetes principales : ` De plus en plus fort ` et ` Marqueurs de la peste `.
 
-5 - mettre le jeu en pause ` steam_api64.dll `
+5 - mettre le jeu en pause
 
 6 - selectionner ` menu en ligne `
 
